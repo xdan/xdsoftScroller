@@ -1,0 +1,16 @@
+.xdsoft_scrollbar >.xdsoft_scroller{
+	background:#ccc !important;
+	height:20px;
+	border-radius:3px;
+}
+.xdsoft_scrollbar{
+	position:absolute;
+	width:7px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	cursor:pointer;
+}
+.xdsoft_scroller_box{
+position:relative;
+}
